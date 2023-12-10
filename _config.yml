@@ -8,16 +8,16 @@ aux_links:
 
 permalink: pretty
 
-exclude:
+#exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
-   - gemfiles/
-   - Gemfile
+#   - gemfiles/
+#   - Gemfile
    - Gemfile.lock
  # specific to the theme website:
-   - "*.gemspec"
-   - "*.gem"
-   - LICENSE.txt
-   - README.md
+#   - "*.gemspec"
+#   - "*.gem"
+#   - LICENSE.txt
+#   - README.md
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
