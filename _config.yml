@@ -3,5 +3,7 @@ description: My personal just-the-docs repo for my IT Projects.
 theme: just-the-docs
 url: https://docs.chandlerruiz.com
 
+permalink: pretty
+
 aux_links:
   Chandler's IT Blog: https://blog.chandlerruiz.com
