@@ -7,3 +7,12 @@ permalink: pretty
 
 aux_links:
   Chandler's IT Blog: https://blog.chandlerruiz.com
+
+exclude:
+   - Gemfile
+   - Gemfile.lock
+ # specific to the theme website:
+    - "*.gemspec"
+   - "*.gem"
+   - LICENSE.txt
+   - README.md
