@@ -3,14 +3,13 @@ description: My personal just-the-docs repo for my IT Projects.
 theme: just-the-docs
 url: https://docs.chandlerruiz.com
 
-permalink: pretty
 
-exclude:
-   - Gemfile
-   - Gemfile.lock
+#exclude:
+#   - Gemfile
+#   - Gemfile.lock
  # specific to the theme website:
-   - LICENSE.txt
-   - README.md
+#   - LICENSE.txt
+#   - README.md
 
 
 # Enable or disable the site search
