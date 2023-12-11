@@ -6,4 +6,8 @@ nav_order: -1
 
 ## Main Page Area
 
-Future location of main page with basic info.
+{: .warning}
+Before continuing, it is imperative you first read the **[Disclaimer]!**
+
+
+[Disclaimer]: https://docs.chandlerruiz.com/disclaimer
