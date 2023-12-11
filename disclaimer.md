@@ -2,6 +2,7 @@
 layout: page
 title: Disclaimer
 permalink: "/disclaimer/"
+parent: About
 ---
 ## Disclaimer
 

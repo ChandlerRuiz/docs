@@ -2,7 +2,7 @@
 layout: page
 title: TEST PROJECT 02
 permalink: "/project02/"
-nav_order : 2
+nav_order: 2
 ---
 
 ## TEST PROJECT 02
