@@ -13,7 +13,7 @@ Before continuing, it is imperative you first read the **[Disclaimer]!**
 ## What next?
 Check out the resources below if you'd like to build your very own documentation-oriented website using GitHub Pages and Jekyll!
 
-If you're just here to check out my projects, choose them from the sidebar or tap the hamburger if you're on mobile!
+If you're just here to check out my projects, choose one of them from the sidebar or tap the hamburger if you're on mobile!
 
 ## Resources used to create this website.
 - [Giraffe Academy - Jekyll - Static Site Generator \| Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
