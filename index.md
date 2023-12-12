@@ -5,10 +5,10 @@ nav_order: -1
 ---
 
 ## Welcome!
-Thanks for stopping by my Project documentation website!
+Thanks for stopping by my project documentation website!
 
 {: .warning}
-Before continuing, it is imperative you first read the **[Disclaimer]!**
+Before continuing, it is imperative that you first read the **[Disclaimer]!**
 
 ## What next?
 Check out the resources below if you'd like to build your very own documentation-oriented website using GitHub Pages and Jekyll!
