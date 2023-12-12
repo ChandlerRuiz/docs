@@ -7,4 +7,9 @@ nav_order: 2
 
 # Creating the M365 Environment
 
-A page discussing the creation of the M365 environment.
+Thankfully Microsoft is kind enough to lend us their resources for free utilizing the [Microsoft 365 Developer Program].
+
+
+
+
+[Microsoft 365 Developer Program]: https://developer.microsoft.com/en-us/microsoft-365/dev-program
