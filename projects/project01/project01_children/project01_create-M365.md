@@ -67,6 +67,6 @@ Complete the required security setup process with your information as required.
 {: .note-title}
 > To-be-continued
 >
-I am currently awaiting the release of my phone number before continuing the guide, as I was using it for the creation of another Dev Program - M365 E5 Sandbox.
+I am currently awaiting the release of my phone number before continuing the guide, as I was using it for the creation of another Dev Program - M365 E5 Sandbox.  
 
 [Microsoft 365 Developer Program]: https://developer.microsoft.com/en-us/microsoft-365/dev-program
