@@ -82,7 +82,7 @@ Click on ***Edit*** on the ribbon menu, then click ***Virtual Network Editor***.
 Within the ***Virtual Network Editor***, select ![](/assets/images/projects/project01/create-on-prem/vmware/vmware-vnet-btn-change-settings.png "VMware VNet - Change Settings"){:.sc}  
 ![](/assets/images/projects/project01/create-on-prem/vmware/vmware-vnet-2.png "VMware VNet - 2"){:.sc}  
 
-For ***VMnet1*** & ***VMnet8***, select the entry in the table and click ![](/assets/images/projects/project01/create-on-prem/vmware/ "VMware VNet - Remove Net"){:.sc}  
+For ***VMnet1*** & ***VMnet8***, select the entry in the table and click ![](/assets/images/projects/project01/create-on-prem/vmware/vmware-vnet-btn-remove-net.png "VMware VNet - Remove Net"){:.sc}  
 ![](/assets/images/projects/project01/create-on-prem/vmware/vmware-vnet-3.png "VMware VNet - 3"){:.sc}  
 
 Select ***VMnet0*** and click the drop-down menu. Select the primary interface you're using on your machine. This will force all connections on this virtual interface to utilize the physical connection you've chosen, which will be used later to provide internet services to an OPNsense firewall.  
